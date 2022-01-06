@@ -170,9 +170,37 @@ button a{
 
 .review{
     width: 80%;
+    margin-top: -20px;
 }
 
 .review img{
     width: 50%;
     margin: 0 auto;
 }
+
+footer{
+    background-color: #34475C;
+    margin: 0;
+}
+
+footer h3{
+    color: #FFF;
+    font-size: 25px;
+    font-weight: 700;
+    text-align: center;
+    padding-top: 30px;
+    margin: 0;
+}
+
+footer h3 span{
+    color: #FB6080;
+}
+
+footer p{
+    color: #fff;
+    margin: 0;
+    text-align: center;
+    padding: 20px;
+}
+
+
