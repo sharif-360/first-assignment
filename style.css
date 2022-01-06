@@ -55,9 +55,9 @@ h1 span{
 }
 
 .top-left p{
-    margin-top: 50px;
-    font-size: 20px;
     color: #333;
+    font-size: 15px;
+    font-weight: 500;
 }
 
 button{
@@ -107,7 +107,7 @@ button a{
 .mission-section p{
     color: #333;
     font-size: 15px;
-    font-weight: lighter;
+    font-weight: 500;
 }
 
 .mission-middle{
@@ -128,3 +128,42 @@ button a{
     border-radius: 10px;
     
 }
+
+.develop-left{
+    width: 40%;
+}
+
+.development-community img{
+    width: 90%;
+}
+
+.develop-right{
+    width: 60%;
+    padding-top: 50px;
+}
+
+.development-community h2{
+    font-size: 30px;
+    font-weight: 900;
+    line-height: 1rem;
+}
+
+.development-community p{
+    color: #333;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 25px;
+}
+
+.community-left{
+    width: 60%;
+    padding-top: 50px;
+    padding-right: 40px;
+}
+
+.community-right{
+    width: 40%;
+}
+
+
+
