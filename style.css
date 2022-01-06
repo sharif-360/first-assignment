@@ -27,6 +27,7 @@ section{
 
 .heading{
     display: flex;
+    padding-top: 100px;
 }
 
 .heading-title{
@@ -74,8 +75,8 @@ button a{
     text-decoration: none;
 }
 
-.mission-title{
-    margin: 40px auto 20px auto;
+.section-title{
+    margin: 60px auto 20px auto;
     text-align: center;
 }
 
@@ -139,7 +140,7 @@ button a{
 
 .develop-right{
     width: 60%;
-    padding-top: 50px;
+    padding-top: 120px;
 }
 
 .development-community h2{
@@ -151,13 +152,14 @@ button a{
 .development-community p{
     color: #333;
     font-size: 15px;
-    font-weight: 500;
+    font-weight: 600;
     line-height: 25px;
+    padding-top: 20px;
 }
 
 .community-left{
     width: 60%;
-    padding-top: 50px;
+    padding-top: 120px;
     padding-right: 40px;
 }
 
@@ -166,4 +168,11 @@ button a{
 }
 
 
+.review{
+    width: 80%;
+}
 
+.review img{
+    width: 50%;
+    margin: 0 auto;
+}
